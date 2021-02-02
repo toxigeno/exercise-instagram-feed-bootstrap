@@ -1,0 +1,21 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: lightslategrey!important;
+    color: white!important;
+}
+.nav-link {
+    color: lightslategrey!important;
+}
+
+.card-body h6 {
+    font-size: 0.8rem;
+}
+
+.card-img, .card-img-top {
+    border-radius: 0;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: lightgreen!important;
+    border-color: lightgreen!important;
+}
